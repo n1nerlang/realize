@@ -1,0 +1,8 @@
+{
+  "my_custom_material:entity_base": {
+    "vertexShader": "shaders/hlsl/my_custom.vertex.hlsl",
+    "fragmentShader": "shaders/hlsl/my_custom.fragment.hlsl",
+    "+defines": ["USE_EMISSIVE", "USE_SKINNING"],
+    "+states": ["DisableCulling"]
+  }
+}
