@@ -1,0 +1,10 @@
+{
+  "realize_glow:entity_alphatest": {
+    "+defines": [
+      "USE_EMISSIVE"
+    ],
+    "states": [
+      "DisableCulling"
+    ]
+  }
+}
