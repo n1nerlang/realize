@@ -1,0 +1,20 @@
+"menu_button_stack@common.stack_panel": {
+  "anchor_from": "center",
+  "anchor_to": "center",
+  "offset": [0, 50],
+  "controls": [
+    { 
+      "play_button_item@realize_buttons.base_button": { 
+        "$button_text": "Play"
+      } 
+    },
+    { 
+      "spacer_one": { "type": "panel", "size": [0, 10] } 
+    },
+    { 
+      "settings_button_item@realize_buttons.base_button": { 
+        "$button_text": "Settings"
+      } 
+    }
+  ]
+}
