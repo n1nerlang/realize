@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Realize",
+    "description": "Minimalist UI and aesthetic overhaul for performance and clarity.",
+    "uuid": "5e57bdae-8046-4103-a772-614b8d5352df",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 30]
+  },
+  "modules": [
+    {
+      "description": "Realize Resource Pack",
+      "type": "resources",
+      "uuid": "3606a5f7-8656-4098-abe4-88c811085321",
+      "version": [1, 0, 0]
+    }
+  ]
+}
