@@ -1,0 +1,21 @@
+{
+  "namespace": "realize_ui",
+
+  "inventory_screen@common_dialogs.standard_dialog": {
+    "size": ["100%", "100%"],
+    "controls": [
+      {
+        "main_layer@realize_ui.inventory_background": {
+          "layer": 1
+        }
+      }
+    ]
+  },
+
+  "inventory_background": {
+    "type": "image",
+    "texture": "textures/ui/inventory_bg_flat",
+    "size": ["300px", "200px"],
+    "offset": [0, 0]
+  }
+}
