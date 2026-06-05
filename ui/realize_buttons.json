@@ -1,0 +1,16 @@
+{
+  "namespace": "realize_buttons",
+
+  "base_button": {
+    "type": "button",
+    "size": ["100px", "30px"],
+    "default_control": "default",
+    "hover_control": "hover",
+    "pressed_control": "pressed",
+    "controls": [
+      { "default": { "type": "image", "texture": "textures/ui/button_default" } },
+      { "hover": { "type": "image", "texture": "textures/ui/button_hover" } },
+      { "pressed": { "type": "image", "texture": "textures/ui/button_pressed" } }
+    ]
+  }
+}
