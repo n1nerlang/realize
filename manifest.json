@@ -1,18 +1,18 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Realize",
-    "description": "Minimalist UI and aesthetic overhaul for performance and clarity.",
-    "uuid": "5e57bdae-8046-4103-a772-614b8d5352df",
+    "name": "§6§lRealize §r§lShaders",
+    "description": "High-end visual project",
+    "uuid": "49ac9827-2410-4c54-acfe-930b38a77c85",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 30]
+    "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
-      "description": "Realize Resource Pack",
       "type": "resources",
-      "uuid": "3606a5f7-8656-4098-abe4-88c811085321",
+      "uuid": "8e064872-4ef0-4723-8ce3-56eca0fca3da",
       "version": [1, 0, 0]
     }
-  ]
+  ],
+  "capabilities": ["pbr"]
 }
