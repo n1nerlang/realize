@@ -1,0 +1,18 @@
+{
+  "namespace": "realize_panorama",
+  
+  "panorama_maps": {
+    "type": "cubemap",
+    "texture": "textures/ui/panorama/panorama",
+    "filter": "nearest",
+    "mipmaps": false,
+    "faces": [
+      "textures/ui/panorama/panorama_0",
+      "textures/ui/panorama/panorama_1",
+      "textures/ui/panorama/panorama_2",
+      "textures/ui/panorama/panorama_3",
+      "textures/ui/panorama/panorama_4",
+      "textures/ui/panorama/panorama_5"
+    ]
+  }
+}
